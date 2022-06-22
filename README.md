@@ -9,8 +9,6 @@
 <div style="margin-bottom=30em;">
   <a href="https://github.com/helciocandido">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helciocandido&locale=pt-br&theme=aura&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/helciocandido">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helciocandido&layout=compact&langs_count=10&locale=pt-br&theme=aura" />
   </a>
 </div>
@@ -19,6 +17,8 @@
   <img height="48em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img height="48em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img height="48em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  LOADING...
 </div>
+
 ##
 
