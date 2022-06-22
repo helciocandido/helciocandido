@@ -6,12 +6,14 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Estou tentando transição de carreira! Vamo que vamo!
 
+</br>
 <div style="margin-bottom=30em;">
   <a href="https://github.com/helciocandido">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helciocandido&locale=pt-br&theme=aura&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helciocandido&layout=compact&langs_count=10&locale=pt-br&theme=aura" />
+    <img width="48%" height="178em" src="https://github-readme-stats.vercel.app/api?username=helciocandido&locale=pt-br&theme=aura&include_all_commits=true" />
+    <img width="48%" height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helciocandido&layout=compact&langs_count=10&locale=pt-br&theme=aura" />
   </a>
 </div>
+</br>
 <div>
   <img height="48em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img height="48em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
