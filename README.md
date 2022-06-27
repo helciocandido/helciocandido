@@ -1,4 +1,4 @@
-### Olá! Eu sou o Helcio Candido 👋
+### Olá! Eu sou o Helcio 👋
 
 - 🔭 Atualmente estou trabalhando com motion graphics e edição de vídeo.
 - 🌱 Agora estou fazendo cursos de HTML, CSS, Javascript e React. E ainda fazendo um Bootcamp Fullstack.
